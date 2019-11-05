@@ -6,7 +6,6 @@ pizza dough
 pizza sauce (see sauce recipe)
 green peppers
 mushrooms
-pineapple
 mozarella cheese
 
 Instructions:
@@ -15,3 +14,4 @@ Instructions:
 2. Spread a thin layer of sauce over the dough.
 3. Sprinkle an even layer of cheese over the sauce.
 4. Dice green peppers; sprinkle on top of cheese.
+5. IMPORTANT: NEVER PUT PINEAPPLE ON YOUR PIZZA!
